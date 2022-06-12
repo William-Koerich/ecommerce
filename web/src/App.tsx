@@ -1,11 +1,9 @@
-import {BannerCoupun} from '../src/components/banner-coupun/BannerCoupun'
+import { BannerCoupon } from './components/banner-coupon/BannerCoupon';
 
 function App() {
-  
-
   return (
     <>
-      <BannerCoupun />
+      <BannerCoupon />
     </>
   )
 }
